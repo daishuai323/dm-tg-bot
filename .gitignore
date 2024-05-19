@@ -8,3 +8,5 @@ output/
 lib/
 lib-doc/
 .DS_Store
+.env
+gcp.json
