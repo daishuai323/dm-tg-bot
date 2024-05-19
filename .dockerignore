@@ -30,5 +30,13 @@
 **/values.dev.yaml
 **/build
 **/dist
-LICENSE
+**/LICENSE
 README.md
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+output.log
+
+# added
+**/examples
+**/test
+gcp.json
