@@ -12,7 +12,9 @@ FROM node:${NODE_VERSION}-alpine
 
 # Use production node environment by default.
 ENV NODE_ENV production
-
+ENV TELEGRAM_TOKEN = "6889427935:AAHU5RzOOHomQNKmLZhOBhlKQU-qNaS2F2g"
+ENV PUB_TOPIC = "projects/second-height-387103/topics/message"
+# ENV GOOGLE_APPLICATION_CREDENTIALS="gcp.json"
 
 WORKDIR /usr/src/app
 
